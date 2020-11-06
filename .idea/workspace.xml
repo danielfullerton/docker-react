@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27b4a488-0fa0-4887-89f9-fd712a69ad93" name="Default Changelist" comment="" />
+    <list default="true" id="27b4a488-0fa0-4887-89f9-fd712a69ad93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev.Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev.docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="e265d928-2c79-4c43-9bb3-56e60bf97e79" />
   <component name="MavenImportPreferences">
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -30,6 +42,33 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,10 +79,21 @@
       <option name="presentableId" value="Default" />
       <updated>1604630263999</updated>
       <workItem from="1604630265067" duration="203000" />
+      <workItem from="1604630519687" duration="5553000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-991" y="-30" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604630696526">
+      <screen x="-1440" y="-1742" width="1440" height="2537" />
+    </state>
+    <state x="-991" y="-30" key="#com.intellij.fileTypes.FileTypeChooser/-1440.-1742.1440.2537/0.-1417.2560.1417/0.23.1680.1027@-1440.-1742.1440.2537" timestamp="1604630696526" />
+    <state x="-990" y="50" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604631273283">
+      <screen x="-1440" y="-1742" width="1440" height="2537" />
+    </state>
+    <state x="-990" y="50" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1440.-1742.1440.2537/0.-1417.2560.1417/0.23.1680.1027@-1440.-1742.1440.2537" timestamp="1604631273283" />
   </component>
 </project>
